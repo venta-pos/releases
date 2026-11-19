@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "release_notes": "إصدار تجريبي لاختبار نظام التحديث التلقائي (VentaPOS Auto-Updater Test v1.0.1).",
+  "download_url": "https://github.com/venta-pos/releases/releases/download/v1.0.1/VentaPOS_Setup_v1.0.1.exe",
+  "sha256": "2d9a83d4f8566b281b3615664a48fe69992d31cf403dd77de430e6ab7f68bc2d",
+  "release_date": "2026-11-20"
+}
